@@ -20,7 +20,7 @@ This was created by `shwp` on [Discord](https://discord.com/users/10141746581798
 5. Run `node .`
 
 
-![image](https://cdn.discordapp.com/attachments/1163134604295815320/1254900013293768824/image.png?ex=667b2c36&is=6679dab6&hm=6ec83c43cad1a2e8661436b238585555d7172e73f0d06d350ad949d752dc20f5&)
+![image](https://cdn.discordapp.com/attachments/1254940419637379146/1254943552342065263/Screenshot_2024-06-24_193726.png?ex=667b54c2&is=667a0342&hm=86d9c4de12e0f13f06691a3d6bb3407e070dfcc8033213f2276d6d1eeac6dddc&)
 
 ## Config Info
 

@@ -1,7 +1,10 @@
 {
-    "token": "",
-    "channel_id": "",
-    "interval_speed": 1900, 
-    "status": "idle",
-    "device_spoof": "pc"
-  }
+  "token": "",
+  "channel_id": "",
+  "interval_speed": 1900, 
+  "status": "online",
+  "device_spoof": "phone",
+  "counting5250": false,
+  "log_message": 10,
+  "reset_on_bot_message": true
+}

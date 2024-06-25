@@ -1,6 +1,6 @@
 {
   "name": "discord-count-selfbot",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "description": "Simple Discord SelfBot that counts!",
   "main": "index.js",
   "scripts": {

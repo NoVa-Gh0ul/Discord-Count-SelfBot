@@ -24,10 +24,17 @@ This was created by `shwp` on [Discord](https://discord.com/users/10141746581798
 
 ## Config Info
 
-The other values (interval_speed, status, device_spoof) are optional to mess with
+The other values (interval_speed, status, device_spoof, counting5250, log_message, reset_on_bot_message) are optional to mess with
 
-Values for **interval_speed** include: any integer / length of time you want that setInterval supports
+- Values for **interval_speed** include: any integer / length of time you want that setInterval supports
 
-Values for **status** include: `online` `idle` `dnd` `invisible`
+- Values for **status** include: `online` `idle` `dnd` `invisible`
 
-Values for **device_spoof** include: `pc` `phone`
+- Values for **device_spoof** include: `pc` `phone`
+
+- Values for **counting5250** include: `true` `false` (this sets whether the bot will wait for another user to count or not)
+
+- Values for **log_message** include: any integer 100 or lower (this sets how far back in messages the bot will remember the count)
+
+- Values for **reset_on_bot_message** include: `true` `false` (if set to true, this will reset the count to 1 if the last message in the counting channel was from a bot)
+

@@ -5,6 +5,8 @@ Very simple Discord SelfBot that counts for you and maintains a status!
 
 This was created by `shwp` on [Discord](https://discord.com/users/1014174658179899503)
 
+Support his main Xbox-based Discord Bot called Guh by [buying guh bot a coffee!](https://buymeacoffee.com/guh_bot)
+
 # Setup
 
 1. Make sure you have `Node.js` installed on your local device (install here: https://nodejs.org/en/download/package-manager)

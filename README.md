@@ -7,6 +7,10 @@ This was created by `shwp` on [Discord](https://discord.com/users/10141746581798
 
 Support his main Xbox-based Discord Bot called Guh by [buying guh bot a coffee!](https://buymeacoffee.com/guh_bot)
 
+# DISCLAIMER
+
+This is a Discord SelfBot, which goes **against Discord ToS**. This software is provided to you to be used at your own discretion. 
+
 # Setup
 
 1. Make sure you have `Node.js` installed on your local device (install here: https://nodejs.org/en/download/package-manager)

@@ -5,7 +5,7 @@ Very simple Discord SelfBot that counts for you and maintains a status!
 
 This was created by `shwp` on [Discord](https://discord.com/users/1014174658179899503)
 
-Support his main Xbox-based Discord Bot called Guh by [buying guh bot a coffee!](https://buymeacoffee.com/guh_bot)
+Support his main Xbox-based Discord Bot called Guh by [donating!](https://www.cash.app/$guhissocool)
 
 # DISCLAIMER
 
